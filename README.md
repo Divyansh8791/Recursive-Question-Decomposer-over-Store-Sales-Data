@@ -41,7 +41,6 @@ The system operates on a cleaned dataset with the following columns:
 
 - Top 5 products by quantity sold in Golden LLC.
 - Which product category (department) had the highest total revenue?
-- What is the total quantity of beverages sold across all stores?
 - What are the top-selling products by revenue in each store?
 
 ---
