@@ -1,9 +1,0 @@
-"What are the top-selling products by revenue in each store?"
-
-"Which product category (department) had the highest total revenue?"
-
-"Which store had the highest profit?"
-
-"Which item has the best profit margin?"
-
-"Top 5 products by quantity sold in Golden LLC"
