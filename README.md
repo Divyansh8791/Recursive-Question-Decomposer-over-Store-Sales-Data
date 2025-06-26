@@ -80,4 +80,4 @@ python app.py
 Time-based queries were handled gracefully with user communication since the dataset lacks timestamp features.**
 ---
 ## 🙋‍♂️ Author
-**Divyansh Sharma**
+**Divyansh Dhiman**
